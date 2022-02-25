@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chous epitreohomenos, or, The dust returning to the earth being a sermon preached at the interrment of that excellently accomplisht gentleman Tho. Lloyd Esq. late of Wheaten-Hurst in the county of Gloucester upon Tuesday the 22nd of December, 1668 / by Tho. Woolnough.</title>
+            <author>Woolnough, Thomas, ca. 1630-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67031</idno>
+            <idno type="STC">Wing W3530</idno>
+            <idno type="STC">ESTC R27625</idno>
+            <idno type="EEBO-CITATION">09985563</idno>
+            <idno type="OCLC">ocm 09985563</idno>
+            <idno type="VID">44457</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67031)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1371:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Chous epitreohomenos, or, The dust returning to the earth being a sermon preached at the interrment of that excellently accomplisht gentleman Tho. Lloyd Esq. late of Wheaten-Hurst in the county of Gloucester upon Tuesday the 22nd of December, 1668 / by Tho. Woolnough.</title>
+                  <author>Woolnough, Thomas, ca. 1630-1675.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.N. for James Collins and are to be sold by J. Jordan,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lloyd, Thomas, d. 1668.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44457:1" rendition="simple:additions"/>
+            <p>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: OR, <hi>The Duſt returning to the Earth.</hi> BEING A SERMON Preached at the INTERRMENT Of that Excellently accompliſht Gentleman Tho. Lloyd Eſq. Late of <hi>Wheaten-Hurſt</hi> in the County of <hi>Gloceſter,</hi> upon <hi>Tueſday</hi> the 22th of <hi>December,</hi> 1668.</p>
+            <p>By THO. WOOLNOUGH, Rector of the Pariſh of St. <hi>Michael</hi> in the City of <hi>GLOCESTER.</hi>
+            </p>
+            <q>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Greg. Naz.</bibl>
+            </q>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>T. N.</hi> for <hi>James Collins,</hi> and are to be ſold by <hi>J. Jordan</hi> Bookſeller in <hi>Gloceſter.</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:44457:2"/>
+            <pb n="1" facs="tcp:44457:2" rendition="simple:additions"/>
+            <head>
+               <gap reason="foreign" resp="#OXF" extent="1 span">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: OR <hi>The Duſt returning to the Earth.</hi> BEING A Sermon preached at the Interrment of that excellently accompliſh'd Gentleman <hi>Tho. Lloyd,</hi> late of <hi>Wheaten-hurſt</hi> in the County of <hi>Gloceſter</hi> Eſquire, upon Tueſday the 22th of <hi>December</hi> 1668.</head>
+            <epigraph>
+               <bibl>ECCLES. 12. 7.</bibl>
+               <q>
+                  <hi>Then ſhall the Duſt return to the Earth as it was, and the Spirit ſhall return to God that gave it.</hi>
+               </q>
+            </epigraph>
+            <div type="section">
+               <p>
+                  <seg rend="decorInit">M</seg>An is frequently wont to be termed a <hi>Mi<g ref="char:EOLhyphen"/>cro-coſme</hi> or <hi>Little World,</hi> not without cauſe. The great World conſiſts of two general parts, Heaven and Earth; ſo doth Man of two parts not unlike, Soul and Body. The Heaven is ſuperior both in Place and Nature, of a ſubſtance pure and ſplendent, and alto<g ref="char:EOLhyphen"/>gether Divine; the Earth is both in ſite and dignity many removes off, the matter of it ſordid and ignoble; the very ſediment,
+<pb n="2" facs="tcp:44457:3"/> dreggs, and ſettlings of the <hi>Chaos:</hi> Thus is the Soul of Man a Spirit, bearing the reſemblance of God himſelf, whom we call ſo; Divinity in a leſs Volume, a ſmaller Character: The Body is but a heap of rubbiſh. The Heavens are continually in motion, ſo is the Soul of Man: their motions are incredibly ſwift, ſo are thoſe of the mind. The Earth is ſixt and unmoveable, and ſo is the Body in and of it ſelf, and for its motion is beholding to the Soul which acts it. Thus then hath the Little World as well as the Great One, its Heaven and its Earth; which are no other in the Language of my Text, than <hi>the Dust</hi> which <hi>returns to the Earth as it was, and the Spirit</hi> which <hi>returns to God that gave it.</hi>
+               </p>
+               <p>Various are the mutations and viciſſitudes of Man's life, yet after all our poſtures we come back to, <hi>As we were.</hi> Thouſands of miles doth the Sun paſs in the compaſs of 24 hours, yet where he began his journey to day, he will not fail to ſet out to mor<g ref="char:EOLhyphen"/>row.</p>
+               <p>This circulation of humane life is and cannot but be viſible, even to the ordinary Obſervers of Nature in her courſe. Our firſt Stage is Infancy, thence we advance forward to Childhood, thence to Youth, ſo to Man's Eſtates, to Middle Age; at laſt we arrive at Old Age, and when at that which is called Decrepit, we are got to Infancy again, come back to, <hi>As we were:</hi> yet is not this the laſt Stage neither, there is one farther, when Death approach<g ref="char:EOLhyphen"/>ing, <hi>the Duſt returns to the Earth, as it was, and the Spirit to God that gave it.</hi>
+               </p>
+               <p>If we look into the Antecedent part of the Chapter, we ſhall find <hi>Salomon</hi> giving young Perſons good Counſel, to make uſe of that Flower of their Age, and to do betimes that Work, by the leaving of which undone they will undo themſelves. To make Hay (as we ſay) while the Sun ſhines; Old Age he warns them is coming, and brings its indiſpoſitions along with it; <hi>the clouds return after the rain,</hi> v. 2. He that puts off the Service of God till then, is likely to ſerve him but lamely at the beſt.</p>
+               <p>Whilſt Blood is in our Veins, and Marrow in our Bones, Reli<g ref="char:EOLhyphen"/>gion is to be minded; God will have the beſt of our years or none. When an aged Froſt hath chain'd the Current of the Blood, Devotion is hardly like to thaw it. Now is the acceptable time, now is the day of ſalvation; <hi>To day if ye will hear his voyce, Heb.</hi> 4. 7.</p>
+               <p>Graphically doth our Preacher here deſcribe Old Age and its infirmities, and that at large in ſundry verſes; ye may know
+<pb n="3" facs="tcp:44457:3"/> 
+                  <hi>Apelles</hi> by his Draught. It were too tedious for me at this time to paraphraſe upon the ſeveral elegant (though ſeemingly myſti<g ref="char:EOLhyphen"/>cal) expreſſions hereunto accommodated: He cloſeth all at the cloſe of all, and that is Death, in the words of the Text; He brings Man to the Grave and there he leavs him, <hi>The Duſt return<g ref="char:EOLhyphen"/>ing to the Earth,</hi> &amp;c.</p>
+               <p>The Words are then you ſee a Periphraſis of Death, repre<g ref="char:EOLhyphen"/>ſented to us under the notion of a return, twofold, with reference to both its Subjects and Terms. The Subjects of it are Soul and Body, the Terms of it to the Earth, to God: [<hi>Then ſhall the Duſt return to the Earth as it was, and the Spirit ſhall return to God that gave it.</hi>]</p>
+               <p>That I may go plainly to work, and not ſoar above the appre<g ref="char:EOLhyphen"/>henſions of any, I ſhall in this Verſe take notice of but two things; and they are, The riſe and tendency of Mans Body and Soul. His Body's riſe, from the Earth; its tendency, to Earth; <hi>Duſt thou art, and to Duſt thou ſhalt return,</hi> Gen. 3. 19. His Soul's riſe, from God, he gave it; its tendency, to God: <hi>It ſhall return to God that gave it.</hi>
+               </p>
+               <p>Theſe particulars in the words eaſily reſolve themſelves into two Propoſitions:</p>
+               <p>One touching the Body of Man, the other the Soul.</p>
+               <p>That touching the Body is this: <hi>That it was from the Earth at the firſt, and to Earth at length it muſt.</hi>
+               </p>
+               <p>That concerning the Soul this: <hi>That it had its being originally from God, and to God ultimately ſhall it return.</hi>
+               </p>
+               <p>Of which Propoſitions by way of Explication firſt, as far as ſhall be needful, and then by way of Application.</p>
+               <p>The Body was from the Earth, how? Our Bodies we now have according to the ordinary courſe of generation, from our Parents, they are not immediately made of Earth; true: But <hi>Adam</hi>'s Bo<g ref="char:EOLhyphen"/>dy the Holy Story witneſſeth was ſo made, <hi>Gen.</hi> 2. 7. whence then the firſt Body came, all are ſaid to come; his Body was from the Earth immediately, ours from his, and therefore mediately
+<pb n="4" facs="tcp:44457:4"/> from the Earth. The greateſt of Men is but <hi>Terrae filius,</hi> and may ſay to Corruption, <hi>Thou art my Father,</hi> as <hi>Job</hi> 17. 4. What ſignifies a long Pedigree? In vain do men tire the Heralds to prove the antientneſs of their Deſcent, whileſt the riſing one ſtep higher, might ſerve to bring down their Pride many ſteps lower; put in but the Son of Earth too, and <hi>Salomon</hi> will be found to have done them more right than <hi>Clarenceaulx.</hi> One <hi>ap</hi> there is which even the Welſhman hath omitted, <hi>ap Duſt.</hi> Wouldſt thou have thy Pedigree drawn out O Man or Woman who ever thou art? Let me commend thee to this King at Arms, and he will quickly tell thee whence thou comeſt, even from Earth.</p>
+               <q>
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <q>[<hi>Then ſhall the Duſt return to the Earth as it was.</hi>]</q>
+               <p>
+                  <hi>The Duſt,</hi> Mark that too, He vouchſafes the Body no better a Name than Duſt, upon good grounds. Why ſhould it be rather nam'd what it is, than what it both was and ſhall be? The rea<g ref="char:EOLhyphen"/>ſons of this Appellation are two to one.</p>
+               <p>
+                  <hi>Duſt,</hi> A bold word if <hi>Salomon</hi> had not ſpoken it, a King, a great King, a wiſe King. What the ſpruce Gallant, the ruffling Courtier, theſe Duſt? What they that ruſtle in Silks, and glitter in Gold; that dazle the Sun with their Jewels, and choak the Air with their Perfumes? Yes, all alike Duſt. So <hi>Naizanzen,</hi> 
+                  <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The Original of all is but the ſame, and that Duſt. What, though in ſome more re<g ref="char:EOLhyphen"/>fined? Differ they may in degree not in kind. Worſhipful, Ho<g ref="char:EOLhyphen"/>nourable, Royal Duſt is Duſt ſtill. Let <hi>Calice</hi> ſand be finer than ordinary, yet is there no reaſon it ſhould loſe its Name, 'tis Sand. Well, that the Body is from the Earth we ſee, yea and not onely ſo, but it muſt return to it alſo. [<hi>The Duſt ſhall return to the Earth, as it was.</hi>]</p>
+               <p>Ocular Demonſtration ſaves us the labour of both Explication and Proof as to this: We every day ſee the truth of this return made good.</p>
+               <p>Were the Body from Earth once, yet were it to return to it no more, Pride would not be ſo irrational a ſin.</p>
+               <p>Tell me not what I was, is the voice of Up-ſtarts; but the Prea<g ref="char:EOLhyphen"/>cher tells us likewiſe what we ſhall be.</p>
+               <p>No man ſo ridiculous as he who having riſen from a mean be<g ref="char:EOLhyphen"/>ginning, fall's again; who firſt begins to fall is pitty'd, but he whoſe riſe and fall are both remembred, ſcorn'd.</p>
+               <pb n="5" facs="tcp:44457:4"/>
+               <q>
+                  <hi>—Heu! quantum mutatus ab illo!</hi>
+               </q>
+               <p>Is the Ironical Language of the beholder in ſuch a Caſe; nor is it to be wondred at, if as the Poet hath it,</p>
+               <q>
+                  <l>
+                     <hi>—Moveat cornicula riſum</hi>
+                  </l>
+                  <l>
+                     <hi>Furtivis nudata coloribus.—</hi>
+                  </l>
+               </q>
+               <p>Haſt thou forgotten that thy Body was Duſt once, and beginneſt thou to ſwell? Remember it muſt be Duſt again too, and let that humble thee.</p>
+               <p>Witty <hi>Lucian</hi> (whoſe ingenuity deſerves to be no leſs eſteem<g ref="char:EOLhyphen"/>ed than his language) hath a Dialogue wherein he brings the Ghoſts of beautiful <hi>Nereus</hi> and deformed <hi>Therſites</hi> together; the latter of which is now bold to challenge the former; ſo little of difference is there between ugly and handſome, when both are duſt: the Body being return'd to the Earth as it was.</p>
+               <q>[<hi>As it was.</hi>]</q>
+               <p>
+                  <hi>Hoc autem ipſum non ſic intelligendum, quaſi revertantur in cer<g ref="char:EOLhyphen"/>tam portionem terrae corpora humana ſingula, ex qua formavit Deus Adam,</hi> &amp;c. ſaith <hi>Lorinus.</hi>
+               </p>
+               <p>This is not ſo groſly to be underſtood, as if all the bodies of men did return into that very individual Earth, of which God created <hi>Adam:</hi> But becauſe as his body was made of duſt, and did return to it; ſo ſhall our bodies return to duſt like thereunto.</p>
+               <p>I have done with the Explication of the firſt part of the Verſe, touching the Body's riſe and tendency, and the Terms from which, and to which of its motion; which are indeed but one, Earth; thence it comes, thither it goes.</p>
+               <p>Ile run over the following part next, that I may reſerve the Application of both together till the laſt.</p>
+               <q>[<hi>And the Spirit ſhall return to God that gave it.</hi>]</q>
+               <p>
+                  <hi>Spirit,</hi> Is an aequivocal word ſignifying other things beſide, but the uſe of it in Scripture for the rational Soul of Man, is better known than that I need ſpend time about it.</p>
+               <pb n="6" facs="tcp:44457:5"/>
+               <p>When a word hath divers ſignifications, the ſenſe muſt point us unto that which we are to fix on; ſo it doth here, determining it to be as I have ſaid meant of the reaſonable Soul. And, It is more<g ref="char:EOLhyphen"/>over critically obſerved by Divines, that when this word is put a<g ref="char:EOLhyphen"/>lone for the Soul, it alwayes ſignifies the rational Soul; otherwiſe it hath this additament, <hi>The Spirit of life;</hi> as <hi>Gen.</hi> 7. 15. But of that enough.</p>
+               <q>
+                  <hi>The Spirit ſhall [Return] to God that gave it.</hi>
+               </q>
+               <p>
+                  <hi>Origen</hi> had a conceit (as indeed he had many) borrow'd from the Platoniſts, That all Souls were created from the beginning, as were the Angels; and that for their ſin they were afterwards thruſt down into Bodies: and ſo according to that Opinion, their return to God ſhould inſinuate their having been with him, been in Heaven before; but the words following clear the ſenſe, <hi>To God that gave it.</hi> Therefore is the Soul ſaid to return to God, be<g ref="char:EOLhyphen"/>cauſe it was from him as its Author. I ſhall not enter the diſpute here with thoſe that maintain the traduction of the Soul, that it is not immediately created by God, but deriv'd from our Parents: I ſuppoſe were there no better Arguments to confute them, than that which is drawn from this place, that Opinion might well e<g ref="char:EOLhyphen"/>nough keep up its credit.</p>
+               <p>'Tis enough that the Soul of the firſt Man was given by God, as well as the firſt Body of the Earth; whence it may be no leſs proper to ſay, that the Souls of all Men return to God that gave them, that is at the beginning, than that their Bodies return to the Earth of which they were made, <hi>viz.</hi> then alſo. But how do the Souls of all Men return to God? What of wicked men too?</p>
+               <p>
+                  <hi>The wicked ſhall be turned into Hell,</hi> Pſal. 9. 17. <hi>And without holineſs no man ſhall ſee God,</hi> Heb. 12. 14. To go to God ſeems to be the Priviledge of the righteous onely, <hi>Bleſſed are the pure in heart, for they ſhall ſee God,</hi> Mat. 5. 8. Yes, the Souls of all go to God, though to a different end; of the bad to receive their Sentence of Condemnation, to be doom'd to puniſhment; of the good to receive their Abſolution, and to have a reward beſtowed upon them. Both muſt meet before Gods Tribunal, to be try'd and ſentenc'd according to their Works. The Souls of the juſt return to God willingly, as to their Father; of the wicked un<g ref="char:EOLhyphen"/>willing'y, as to their Judge. The Soul of the Saint long'd for its
+<pb n="7" facs="tcp:44457:5"/> return, its motion naturally tended that way, no wonder; whi<g ref="char:EOLhyphen"/>ther ſhould every thing tend but to its Center? Whither ſhould Rivers run but to the Sea? God is the Center of Souls, nothing reſts out of its Center, nor can the Soul reſt disjoyned from God.</p>
+               <p>The Souls of good men return to God during their life time, they are the wicked, who return onely at death, when they can<g ref="char:EOLhyphen"/>not help it. The World is full of troubles, perturbations, cares, anxieties, where ſhould the believing Soul reſt but in the boſom of God? <hi>Feciſti nos Domine ad Te</hi> (ſaith the Father excellently) <hi>&amp; inquietum eſt cor noſtrum donec requieſcat in Te.</hi> Thou madeſt us O Lord for thy ſelf, nor can our Souls be at quiet, till they reſt in thy ſelf.</p>
+               <p>The words then are ſufficiently explain'd; let us ſpend the reſt of our time in picking out that matter of Inſtruction and Exhor<g ref="char:EOLhyphen"/>tation, which may be beneficial to us.</p>
+               <p>
+                  <hi>The Body is from the Earth,</hi> that is the firſt branch of the firſt Propoſition. Let us learn hence,</p>
+               <p n="1">(1.) <hi>Humility.</hi> What a piece of Earth pufft up? Who art thou that magnifieſt thy ſelf upon the accompt of bodily accom<g ref="char:EOLhyphen"/>pliſhments, Beauty, Strength, or the like? Alas! thou art but Earth.</p>
+               <p>That Body of thine which thou ſo trimmeſt and pampereſt, is but a piece of handſome clay, a piece of white earthen ware; it makes a pretty ſhow, 'tis confeſt, but have a care of a knock; keep it whole as long as thou canſt, for if once it fall aſunder, it is no longer of any worth; the matter of it is but Earth, good for no<g ref="char:EOLhyphen"/>thing, however the form of it may for a time commend it, both to thy ſelf and others.</p>
+               <p>Let young people think of this eſpecially, in whom the ſin of Pride is wont to be moſt predominant. When thou art dreſſing thy ſelf at thy Glaſs (O young perſon!) admiring thine own form, and ready with <hi>Narciſſus</hi> to fall in love with thy ſelf; think then, What do I take all this pains for, to deck a piece of Earth? my body is no better. And as Humility within our ſelves, ſo let us learn it with reference unto others, from this conſi<g ref="char:EOLhyphen"/>deration:</p>
+               <p>Who are we that contemn our poor Brethren? Are they rag<g ref="char:EOLhyphen"/>ged
+<pb n="8" facs="tcp:44457:6"/> and beggerly? Are they miſhapen and deformed? what then?</p>
+               <p>Their Bodies are made of no worſe matter than our own, all are but Earth. Much leſs let any of us dare to magnifie our ſelves againſt the great God, adventure to take up the Cudgels againſt Heaven. Will the <hi>Terrae filii,</hi> the Sons of Earth make war with <hi>Jupiter,</hi> yea though Gyants, great in ſtrength and ſtature? Alas poor Earth! Shall the Clay magnifie it ſelf againſt the Potter? Good God! that ever Earth ſhould be ſo proud as to defie its Maker!</p>
+               <p>What are we, all the men of the world joyn'd together, but ſo many Earthen Veſſels? Let but God ſmite us, and we crum<g ref="char:EOLhyphen"/>ble to duſt; yea how eaſily can he daſh us to pieces one againſt an<g ref="char:EOLhyphen"/>other?</p>
+               <p>Let not Earth then dare to incur the diſpleaſure of the Almigh<g ref="char:EOLhyphen"/>ty, let us in all humility reverence and obey him; <hi>O Earth, Earth, Earth, hear the Word of the Lord. Let us ſerve the Lord with fear, and rejoyce with trembling,</hi> as <hi>Pſal.</hi> 2. 11. <hi>leaſt we be broken with a rod of iron, and daſht in pieces like a Potters Veſſel,</hi> as v. 9. Again, Are our Bodies of Earth? then,</p>
+               <p n="2">(2) Let us not make our ſelves ſlaves to them; What ſhall the Divine Soul ſerve the Earthen Body? for ſhame! This is for Ser<g ref="char:EOLhyphen"/>vants to ride, and Princes to go on foot. <hi>Let us not make proviſi<g ref="char:EOLhyphen"/>on for the fleſh, to fulfil the luſts thereof;</hi> as <hi>Rom.</hi> 13. 14. Let us curb and check the Body when it grows malepert and domineers; let us make Earth know it ſelf. Do we come hither think we into the world, for naught but to gratifie our Bodies, to eat, and drink, and ſleep, <hi>&amp;c.</hi> Theſe bodily ſervices, how much of our pretious time do they take up? Some they muſt as we are men, but as little as may be they ſhould, as we are Chriſtians.</p>
+               <p>Let it not be ſaid of any amongſt us, <hi>Dum comuntur &amp; alun<g ref="char:EOLhyphen"/>tur annus eſt.</hi> How many are there who make Idols of their Bodies, who worſhip an earthen god, the groſſeſt and moſt ſtu<g ref="char:EOLhyphen"/>pid Idolatry imaginable? Some make their back their god, others their belly; theſe we read of <hi>Phil.</hi> 3. 19. <hi>Whoſe God is their belly, who mind earthly things.</hi> The things of the Body are, and muſt needs be earthly things; for the Body it ſelf is but Earth. Let us mind the Body leſs, and the Soul more; Let us not feed the Swine and ſtarve the Child. The Soul is the Treaſure which we have in theſe Earthen Veſſels., as they are call'd, 2 <hi>Cor.</hi> 4. 7. Let us
+<pb n="9" facs="tcp:44457:6"/> ſecure the Treaſure, and not be much ſolicitous about the Veſſels.</p>
+               <p n="3">(3.) Are our Bodies Earth? We might from hence too take notice of the infinite Wiſdom of God, the <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as the Apoſtle calls it; who of ſuch rough matter can frame ſuch excellent pieces. This commends the Workmans art, that he can make Earth ſo glorious. Let us take notice of this, not to make us proud (which we have been already caveated againſt) but to cauſe us to glorifie God with theſe Bodies of ours.</p>
+               <p>By the way too, Let us be hence confirmed in our belief of the Reſurrection, if God cou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d of very Earth make ſuch Bodies as theſe, why can he not of Earth raiſe them up again? No mat<g ref="char:EOLhyphen"/>ter what the ſtuff be, if God be the Workman.</p>
+               <p n="4">(4.) See we hence the neceſſity of death, or ſomething ae<g ref="char:EOLhyphen"/>quivalent to it, that change mentioned, 1 <hi>Cor.</hi> 15. 51. Why we have Earthen Bodies, and theſe are not fit for Heaven. What ſhould Heaven do with Earthen Pitchers? The azured Windows of that Imperial Pallace need no ſuch Flowre-Pots. No, <hi>This corruptible must put on incorruption,</hi> this Earth muſt be refined from its droſs and dreggs, e'r it be fit Company for Angels. Again,</p>
+               <p n="5">(5.) Let us learn not immmoderately to fear them that can onely kill the Body, break an Earthen Pot; a great matter, who cannot do as much as that? Neither is the Conqueſt great on their part, nor the loſs much on ours.</p>
+               <p>Let us not fear the wearing out of our Bodies in Gods Service, or the laying down theſe Earthly Tabernacles in his Cauſe for his ſake, and at his Call: Little will we do for him, upon whom we will not beſtow a piece of Earth. A Crown of Glory is a good reward. 'Tis a thriving way of negotiation thus to barter with God, to get Heaven for a piece of duſt laid out. But I haſten, and paſs from this to the later Branch of the Propoſition, <hi>The Body muſt to Earth again, As it was,</hi> ſaith the Text. Had it not been for the ſin of Man the Body ſhould have been immortal, it was ſin that brought in death; <hi>In the day that thou eateſt, thou ſhalt die,</hi> Gen. 2. 17. Yet this immortality of the Body would have been not <hi>ex natura, ſed gratia.</hi> The Body is made of dying ingredients, Earthen Ware will crack, one time or other: The
+<pb n="10" facs="tcp:44457:7"/> Pitcher goes not ſo often to the Well, but it comes broken home at laſt, To die, is in <hi>Nazianzen</hi>'s Phraſe, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, To pay a Debt to Nature.</p>
+               <p>There are then two reaſons why the Duſt muſt to the Earth: 1. The natural frailty of Mans Body, which declines towards the Grave. 2. Gods Decree for the puniſhment of ſin. To the Earth the duſt muſt, ſuch is its Nature; and to the Earth it ſhall, ſuch is Gods determination. Well, Learn we hence too,</p>
+               <p n="1">1. Not to be too fond of theſe Bodies of ours, not to tiddle them, to ſatisfie all their wanton appetites and deſires; to live like Epicures.</p>
+               <p>How will that delicate Body do to lie down in the Grave, which here even tires the Soul to invent ways of making much of it? Yet this it muſt come to, <hi>nolens volens.</hi> The wind muſt not blow upon thee O Man or Woman here, what a care thou haſt of thy ſelf? This and the other is not good enough for thee to eat, nor this or that to wear. Thy Luxury muſt rifle no leſs than 3 Elements, yea thy Eye muſt be fed as well as thy Belly; <hi>Quaſi gula crapulae non ſufficeret etiam oculis caenamus, ipſis oculis eſt gula;</hi> ſaith <hi>P<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>tean.</hi> And remoteſt Countries muſt be ranſackt to furniſh thy Back, and why all this? Muſt not thou ſhortly to the Land of Darkneſs? Muſt not this Body of thine reſolve into rottenneſs and putrefaction?</p>
+               <p n="2">2. See we hence how little the Grandeur and Gawdery of this World is worth, that the Body muſt to the Grave, when all is done, it muſt to Earth. Pallaces and Crowns cannot keep off Death.</p>
+               <q>
+                  <l>
+                     <hi>Pallida mors aequo pulſat pede, Pauperum tabernas</hi>
+                  </l>
+                  <l>
+                     <hi>Regumque turres—</hi>
+                  </l>
+                  <bibl>ſaith <hi>Horace</hi> aptly.</bibl>
+               </q>
+               <p>Tell not Death when it approacheth of Noble Blood, of great Eſtate, of Honours, and the like; all theſe ſignifie nothing. Art thou a Son of <hi>Adam</hi> yea or no? Is thy Body from the Earth? If that thou canſt not deny, he values not thy high looks. If from Earth thou cameſt, to Earth thou muſt return. Thy Mother Earth (ſaith he) deſires thy embraces, be not too proud to own her; yet if thou beeſt it matters not, I bring power enough with me to force a ſtronger than thy ſelf. This ſame Honour is a taking
+<pb n="11" facs="tcp:44457:7"/> thing. See Men in their Ruffe, in all the Pageantry of Fortune, and weak eyes will be dazled by their ſplendor; who would not deſire to be in their caſe, and ſay with Saint <hi>Peter</hi> at the Transfigu<g ref="char:EOLhyphen"/>ration, <hi>It is good for us to be here?</hi> I, but follow a great Man to the Grave, ſee him but making this return, ſee his Body deſcend into the Slymy Valley, the Duſt returning to the Earth as it was, and then who can envy him? His G<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ory and his Pomp ſhall not deſcend after him, ſaith the Pſalmiſt, <hi>Pſal.</hi> 49. 17. Again,</p>
+               <p n="3">3. If the Body muſt to the Earth, let us be adviſed hence, to endeavour whilſt we are here to redeem our ſelves from the power of the Grave, by worthy actions.</p>
+               <p>Our Bodies muſt rot, let us not ſo carry our ſelves, as that our Names ſhould do ſo too; that is the Curſe of the Wicked, <hi>Prov.</hi> 10. 7. <hi>The name of the wicked ſhall rot, but, The memory of the juſt is bleſſed;</hi> ſaith the ſame verſe.</p>
+               <p>There are three things belonging to every Man, his Soul, his Body, his Name; the one muſt die, the other cannot die, the third may be preſerv'd. The Soul muſt live for ever in weal or wo, the Body will to the Earth, none can help it: To procure the diſſolution of the one, or reprieve the other from death, is not in our power; but the keeping alive our Name is in our own hand. This is one of the Stoicks <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>It is in our power by deſerving well or ill of the World, to leave a ſweet ſavour or a ſtink behind us. It is the advice which <hi>Pliny</hi> the younger (a man no leſs ingenious than learned) gives his Friend, from the conſideration of the ſhortneſs of life, in the 70th Epiſt, of his Third Book; <hi>Sed tanto magis hoc quicquid eſt temporis futilis &amp; caduci, ſed non detur factis certe ſtudiis proferamus: &amp; quate<g ref="char:EOLhyphen"/>nus nobis denegatur diu vivere, relinquamus aliquid quo nos vixiſſe teſtemur.</hi>
+               </p>
+               <p>This moſt concerns Perſons of rank and quality, that have ma<g ref="char:EOLhyphen"/>ny eyes upon them, that are taken notice of in the World, by rea<g ref="char:EOLhyphen"/>ſon of the inequality of their height; they being like <hi>Saul,</hi> higher by the head and ſhoulders than the reſt of the people: for ſuch Perſons to live in a Cloyſter, like Snails in their Houſes; to ſteal a<g ref="char:EOLhyphen"/>way like Plebeians through the Crowd unſeen, to have their way like the way of a ſhip in the ſea without track; to leave no token that they were, unleſs this, That they begat Children. What a Diſgrace? What a ſhame? Much more to live onely in the Cur<g ref="char:EOLhyphen"/>ſes of the People, to be remembred for naught but Cruelty and
+<pb n="12" facs="tcp:44457:8"/> Oppreſſion, grinding the faces of the poor, and the like.</p>
+               <p>The generous ſpirits among the Heathens were alwayes wont to affect immortality, which for that their bodies could not reach, and to the Doctrine of the Soul they were in great part ſtrangers; they endeavoured by their vertues to ſupply and make out, wh<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> was wanting to the frailty of their Bodies.</p>
+               <p>'Tis true we are acquainted with the Souls immortality, and know that death makes not an end of the whole Man; we know that there ſhall be a reſurrection of the Body too: but yet, next to the care of providing for the Souls happy Eternity, ſhould be that of leaving a good Name behind us. A good Name, which is <hi>as pretious Oyntment,</hi> Eccleſ. 7. 1. This is the way to deliver our ſelves from Death indeed.</p>
+               <p>Never doth he die, whoſe Soul lives in Heaven, and whoſe Name lives in the World; the Grave hath onely its Thirds in ſuch Caſes, which cannot be denied it.</p>
+               <p>I have done with the Body, to which our firſt Propoſition had reſpect, and I fear I have given it too large a ſhare; ſo great is the advantage of coming firſt: It were pity that the Souls part ſhould be ſcanted, I'le do it what right I can, by the leave of the time and your patience.</p>
+               <q>[<hi>And the Spirit ſhall return to God that gave it.</hi>]</q>
+               <p>
+                  <hi>The Spirit is from God,</hi> That is the firſt part of the Propoſition, which we are now to improve. And ſo,</p>
+               <p n="1">1. Learn we hence to think aright of the Dignity of our Souls, they are of a heavenly Extraction; <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>We are his Off-ſpring,</hi> Acts 17. 28. Is not this Soul too good to de<g ref="char:EOLhyphen"/>baſe to the ſervice of ſin, to the ſervice of Satan? What? Did the Soul come from God, and ſhall it be given to the Devil? God forbid. What a Fool was <hi>Eſau</hi> to ſell his Birth-right for a Meſs of Pottage? Worſe Fools are all they that ſell their Souls for the Pleaſures of Sin, leſs ſubſtantial than ſo, meer ſmoak and air.</p>
+               <p>We laugh at them, who having Eſtates deſcending to them from their Anceſtors, improvidently ſquander them away: No Spend<g ref="char:EOLhyphen"/>thrift like the Sinner, who trifles away his Soul the Gift of God.</p>
+               <pb n="13" facs="tcp:44457:8"/>
+               <p n="2">2. Learn we the immortality of the Soul, if it be from God, that is (as we have ſeen) immediately created by him, then can it never ceaſe to be by the means of any thing beſides him: He only who gave it a being, can take away its being: He can anni<g ref="char:EOLhyphen"/>hilate it if he pleaſeth, otherwiſe it muſt needs remain.</p>
+               <p>That which is made of matter, can be no more durable than that matter of which it is made: Hence the Earthen Body muſt of neceſſity have its period. It is one property of Earth to be <hi>fria<g ref="char:EOLhyphen"/>bilis,</hi> ſubject to crumble into duſt; but the Soul having no prae-ex<g ref="char:EOLhyphen"/>iſtent matter, but being created of nothing, is neceſſarily evinc'd to be, <hi>à parte poſt,</hi> eternal.</p>
+               <p n="3">3. Did God give us our ſouls? Let us then bequeath them to him to keep. He onely can keep them, who created and gave them. It is St. <hi>Peter</hi>'s counſel, <hi>to commit our Souls to God in well doing, as to a faithful Creator,</hi> 1 Pet. 4. 19. where he hints at this very thing that we are upon, <hi>viz.</hi> the reſigning of our Souls to God upon this conſideration, That we had them from him.</p>
+               <p>To the ſame purpoſe ſpeaks St. <hi>Paul, I know whom I have truſted, and that he is able to keep that which I have committed unto him, a<g ref="char:EOLhyphen"/>gainſt that day,</hi> 2 Tim. 1. 12.</p>
+               <p>We ſhall all be deſirous when we come to die, to commit our Souls to God; ſaying, <hi>Lord into thy hands we commit our Spirits:</hi> Why let us cheerfully bequeath our Souls to God now, by the reſig<g ref="char:EOLhyphen"/>nation of a holy Life, that he may willingly receive them then, at the reſignation of a happy Death. Let us devote our Souls to the ſervice of that God from whom we had them; Let us give them back to him that gave them us: what more equal? His gi<g ref="char:EOLhyphen"/>ving of them was grace, free mercy; our returning of them to the Giver is Duty. God calls for them, <hi>My Son give me thy heart,</hi> Prov. 23. 26. He requires to be lov'd, <hi>with all the heart, with all the ſoul, and with all the ſtrength;</hi> Luke 10. 27. How c<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n we in reaſon or conſcience deny it?</p>
+               <p>God gave us theſe Souls not to uſe as we liſt, he made all things for his own glory; Our Souls are his, let us therefore according to the Apoſtles counſel, <hi>glorifie him in our Souls, which are his.</hi> They are not at our own diſpoſe, we are not Maſters of them; Have we promiſed them to Sin and Satan? We may retract our promiſe: A promiſe unlawfully made, may lawfully be broken; yea cannot lawfully be kept: We gave what is none of our own, ſuch a gift is therefore void in Law: Our Souls are Gods.</p>
+               <pb n="14" facs="tcp:44457:9"/>
+               <p>Do they think of this who are ſo free of their Damme<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s? Poor wretches! How madly do they give away their Souls! Should God ſay Amen to ſuch Imprecations, what would become of them? Are Souls ſo cheap? Did they coſt ſo ſmall and contempt<g ref="char:EOLhyphen"/>ible a price, when Chriſt ſhed his Blood to redeem them; that we ſhould make ſo little accompt of them? Let us remember whence we had our Souls, and let that make us mind their welfare, and take care what becomes of them. Did they come from God, from Heaven? It were ſad they ſhould go to Satan, to Hell: This is not for them to return, but to wander, to be loſt: <hi>And what ſhall it profit a man if he gains the whole World, and loſe his Soul,</hi> Matth. 16. 26.</p>
+               <p n="4">4. Are our Souls from God? Let us then mind more their Di<g ref="char:EOLhyphen"/>vine Original; think of our Countrey, our Home Heaven; Our Father God, <hi>The Father of Spirits,</hi> Heb. 12. 9. Children from home, are often thinking of it, and wiſhing to be there. Home is we ſay home, though never ſo homely; no place like that to them. Why Heaven is our Home, Let us have our Converſation there, while our abode is on Earth. What do we ſojourning in <hi>Meſheck,</hi> and dwelling in the Tents of <hi>Kedar?</hi> How? Shall we not <hi>deſire to be diſſolved, and to be with Chriſt;</hi> which is far better? as <hi>Phil.</hi> 1. 23. Doth no place uſe to ſeem like home to Strangers, though indeed better? Much leſs let Earth be taken by us for our home, when it is ſo much worſe than that. What compariſon be<g ref="char:EOLhyphen"/>tween Earth and Heaven? Trouble and Reſt? Sorrow and Joy? Miſery and Happineſs? A Crown of Thorns and a Crown of Glory?</p>
+               <p>We muſt indeed ſtay Gods time for our going home: Children at School muſt expect to be ſent for, e'r they ſtir; but yet let us in the mean time be much in the thoughts of Heaven, and of Glo<g ref="char:EOLhyphen"/>ry: Let the bent of our deſires be, and the byas of our Souls draw that way. 'Tis ſtrange that men ſhould generally have ſo much forgotten the deſcent of their Souls, that Heaven ſhould have ſo little place in their thoughts and diſcourſes. Do they think they had their Souls from God, who have not God in all their thoughts.</p>
+               <p>Men brag of their Corporal Deſcent, and yet mind not that which is their greateſt Honour: They make their Heaven-born. Princely Souls embrace Dung-hils.</p>
+               <pb n="15" facs="tcp:44457:9"/>
+               <p n="5">5. And laſtly, If God gave us our Spirits, our Souls, then let us be hence inform'd of the abſolute and undoubted right God hath to diſpoſe of our lives. May not he take away that gave? See <hi>Job</hi>'s argument, <hi>cap.</hi> 1. 21. <hi>The Lord giveth, and the Lord taketh away;</hi> What then? <hi>Why, bleſſed be the Name of the Lord.</hi> He breath'd our Souls in, and if he will have us breath them out, he dothus no wrong.</p>
+               <p>
+                  <hi>All Souls are mine,</hi> ſaith God, they are indeed, for he gave them. When God calls us by death, let us ſubmit quietly: What will we deny God his own, our Souls? That is Injuſtice, we ought not ſo to do; and 'tis folly to boot, we cannot with-hold them from him if we would.</p>
+               <p>And as in reſpect of our ſelves, ſo our friends and relations, Doth God take them away? Who can ſay to him, <hi>What doeſt thou? Where the word of a King is, there is power.</hi> That they were at all was from him, that we enjoy'd them, long was his mercy; let us part therefore cheerfully and contentedly, and with holy <hi>Job</hi> in the fore-named place, as well bleſs God when he takes away, as when he gives.</p>
+               <p>I am now come to the laſt Branch of the latter Propoſition, touching the Souls return to God that gave it. <hi>As it was from him, ſo it muſt and ſhall return to him.</hi>
+               </p>
+               <p>The Souls of good men are convey'd by the holy Angels, as was the Soul of <hi>Lazarus, Luke</hi> 16. 22. and the Souls of bad men by the evil Angels, the Devils; they ſhall require or fetch away thy ſoul from thee, <hi>Luke</hi> 12. 20. <hi>This Night,</hi> ſaith God to the rich man, <hi>ſhall thy ſoul be required of thee.</hi> So we read it, but in the Greek <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>They do or ſhall fetch it away, viz.</hi> the De<g ref="char:EOLhyphen"/>vils, as before. The Devils like Catch-poles ſhall ſeiſe upon the Souls of the wicked, and carry them before Gods Tribunal, be<g ref="char:EOLhyphen"/>fore the Seat of Juſtice, thence to be ſent to that Priſon out of which there is no redemption.</p>
+               <p>The improvement which I ſhall make of this Conſideration, ſhall be onely by way of Exhortation. Let me ſtir you all up to an expectation of, and preparation for this return: So prepare for it, as that you may return to God with comfort.</p>
+               <p>To that end,</p>
+               <pb n="16" facs="tcp:44457:10"/>
+               <p n="1">1. Beware of thoſe things which may render unfit, or make unwilling to come before God. Take heed of Sin, take heed of Slothfulneſs in Duty; the one will make afraid, the other will make aſham'd to appear in Gods preſence</p>
+               <p n="1">1. Take heed of Sin, guilt begets fear, the guilty perſon doth not love to think of coming near God; but rather endeavours to keep at a diſtance. When <hi>Cain</hi> hath ſinn'd, he will go out from the preſence of the Lord, <hi>Gen.</hi> 4. 16.</p>
+               <p>Here the guilty perſon is jolly, becauſe he thinks he is far enough from God, out of his ſight; (ſo fooliſh men are apt to perſwade themſelves) <hi>&amp; procul a Jove, procul a fulmine.</hi> But when they come to return to him, when there can be no creeping into Cor<g ref="char:EOLhyphen"/>ners to hide themſelves, but they muſt appear, how will they then tremble? How ſhall a man do to appear before that God whom he hath ſo much offended, and apprehends to be his enemy? He ſaith within himſelf at ſuch a time, in the language of <hi>Ahab</hi> to the Prophet, <hi>Haſt thou found me O mine Enemy?</hi> But the righ<g ref="char:EOLhyphen"/>teous will then hold up his Head with comfort and confidence, <hi>The righteous is bold as a Lion,</hi> Prov. 28. 1. And as Sin, Commiſ<g ref="char:EOLhyphen"/>ſion of Evil, ſo,</p>
+               <p n="2">2. Beware of Slothfulneſs, Omiſſion of Good. Let us not be ſlothful in buſineſs, but fervent in Spirit, ſerving the Lord, as <hi>Rom.</hi> 12. 11. The ſlothful Chriſtian will be aſhamed that God ſhould ſee and call him to an accompt; he is able to ſhew ſo little that he hath done, ſo little uſe that he hath made of the time and talents lent him by God. Hath he hid his Talent in a Napkin? How muſt he needs bluſh when the improvement of it is inquired into, and when he ſees others give God his own with uſury? as <hi>Matth.</hi> 25. 20. This is a degenerate Soul, which may well be a<g ref="char:EOLhyphen"/>ſham'd to appear before God, a Soul which ſeems to be Earth, as well as the Body; for ſo St. <hi>Chryſoſtom</hi> I remember ſpeaks, of him that hid his Talent in the Earth. <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. The diligent perſon is the per<g ref="char:EOLhyphen"/>ſon who can with ſome good meaſure of Confidence approach the preſence of his Maker at this return. <hi>Seeſt thou a man diligent in his buſineſs?</hi> ſaith <hi>Salomon, he ſhall ſtand before Kings, &amp;c.</hi> Prov. 23. 29. Again,</p>
+               <pb n="17" facs="tcp:44457:10"/>
+               <p n="2">2. If we would have our Souls comfortably return to God, let us labour here ſo to trim and adorn them, as that they may be in ſome meaſure fit for ſuch an approach, as being ſutable to him. God is a holy God, and loves holineſs, let us endeavour to be like him, <hi>Perfecting holineſs in the fear of God.</hi> Let us puri<g ref="char:EOLhyphen"/>fie our ſelves, even as he is pure: Strive to be perfect, as our Fa<g ref="char:EOLhyphen"/>ther which is in Heaven is perfect, <hi>Matth.</hi> 5. 48. Let us put on by Faith the White Robe of Chriſts ſpotleſs Righteouſneſs, that the ſhame of our nakedneſs may be hid. We need not then be aſham'd that God ſhould ſee us, if we come thus cloath'd. Men are loath to be ſurpriz'd by Great Perſons in their old Habit and Attire, but if they have had time to ſhift and adorn themſelves, they come forth confidently: The caſe will be the ſame here.</p>
+               <p>Let us not dare to carry our old Natures into Gods preſence<g ref="char:punc">▪</g> 
+                  <hi>Let us put off the old man, and put on the new; which after God is created in righteouſneſs and true holineſs,</hi> Eph. 4 22, 23, 24. Let us labour to have our Souls beautified with the Graces of the holy Spirit, and let not thoſe Graces ſleep in the habit neither, but be put forth into act. <hi>Let us ſtir up the gift of God that is in us,</hi> ac<g ref="char:EOLhyphen"/>cording to the Apoſtle's Counſel to <hi>Timothy, 1 <hi>Ep.</hi> 1 <hi>cap.</hi> 6 ver.</hi> Let it not be ſufficient that we have Oil in our Lamps, but let us trim thoſe Lamps alſo (as they did, <hi>Matth.</hi> 25. 7.) and be in readineſs to meet the Bride-groom. Many men are habitually prepared for this return to God, but for want of that actual pre<g ref="char:EOLhyphen"/>paration which is requiſite, they go out of the World uncomfort<g ref="char:EOLhyphen"/>ably; their Sun ſets in a Cloud, there is not that abundant en<g ref="char:EOLhyphen"/>trance adminiſtred unto them into the heavenly Kingdom, which otherwiſe there might have been: They return like Weather<g ref="char:EOLhyphen"/>beaten tatter'd Ships into the Port, with Maſts broken and Sayles torn, and although they find fulneſs of joy in Gods preſence, yet come they not with that fulneſs of joy into his preſence, which were to have been wiſht.</p>
+               <q>
+                  <hi>Conſider what hath been ſaid, and the Lord give us underſtanding in all things.</hi>
+               </q>
+            </div>
+            <div type="section">
+               <pb n="18" facs="tcp:44457:11"/>
+               <p>I Have done with my Text, and it may now juſtly be expected from me, that I ſhould ſpeak ſomething touching this our ho<g ref="char:EOLhyphen"/>noured Brother depared: with whom I have had the happineſs of being for the ſpace of twice 7 years well acquainted.</p>
+               <p>Such a Theam I can aſſure you, as falls not in a Miniſters way every day; and where it is much more difficult to determine what to leave out, than to find out what to ſay.</p>
+               <p>I ſhall not touch at any thing which concerns his Extraction, that is the Heralds work not mine; and the Eſcutcheons may ſpeak enough, though I be ſilent. Let them be copious in diſplayes of this Nature who have little elſe to ſay.</p>
+               <q>
+                  <hi>Stemmata quid faciunt?—</hi>
+               </q>
+               <p>Who boaſts his Deſcent, extolls his Anceſtors and not himſelf. That ſurely is moſt praiſe-worthy which is moſt our own. I had rather blazon the Vertues of any Man than his Arms.</p>
+               <p>And here, oh for the Pencil of an <hi>Apelles,</hi> that I might be able to promiſe a Draught ſomewhat worthy of the Original! The onely commendation of his Picture would be its likeneſs to him, and whom to ſtrive to flatter, would be to court an impoſſibility; for <hi>Coelum non patitur hyperbolen.</hi>
+               </p>
+               <p>Forgive me then thou alwayes great and now glorious Soul, that I attempt to pourtray thy lineaments with ſo unskilful a hand; whoſe perfections whilſt I leaſt expreſs, I ſhall yet herein moſt praiſe, that I acknowledge them to be in-expreſſible.</p>
+               <p>Logicians have exempted tranſcendent beings from the Praedi<g ref="char:EOLhyphen"/>camental Series; nor did <hi>Ariſtotle</hi> take the worſt courſe of com<g ref="char:EOLhyphen"/>mending his Maſter the Divine <hi>Plato,</hi> when he ingeniouſly con<g ref="char:EOLhyphen"/>feſſeth him to exceed commendation.</p>
+               <q>—<gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</q>
+               <p>Yet is it expedient that ſomething ſhould be ſaid, though all can<g ref="char:EOLhyphen"/>not, and though <hi>Phaethon</hi> falls, he falls not without the teſtimony of being at leaſt a daring Undertaker.</p>
+            </div>
+            <div type="section">
+               <pb n="19" facs="tcp:44457:11"/>
+               <p>HE was then a Gentleman in every dimenſion, and the real owner of all thoſe Accompliſhments, which the moſt accompt it enough but to pretend to.</p>
+               <p>In whom was to be found, whatever from Excellent Parts of Nature, improv'd by excellent Education, Studies at home, and Travails abroad, might be expected. He brought from beyond Sea the rich Commodities, leaving the Apes and Peacocks behind him.</p>
+               <p>A Perſon of a quick Apprehenſion, ſolid Judgement, tenace<g ref="char:EOLhyphen"/>ous Memory. His Learning not onely vaſt and comprehenſive, as extending to the moſt of what was worthy to be known, but profound alſo: He div'd to the bottom of whatſoever he ſet himſelf to inquire into. He was no Smatterer or Superficial Scioliſt, but a well-grounded<g ref="char:punc">▪</g> and thorow-pac'd Scholar: One who had eaten and digeſted the whole Encyclopaedy of Arts and Sciences, and whoſe mind had not barely received a light Tincture of Knowledge, but was even died in grain.</p>
+               <p>Whileſt others minded Pleaſures of a baſer alloy, he was for the <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>: (in the language of the Philoſopher) Pleaſures intellectual, and ſuted to the Guſto of a ſublime, raiſed, a high-ſoaring Soul.</p>
+               <p>How aſſiduous he had been at his Studies, witneſs the decay of his ſight whileſt yet but young; he with a reſolution worthy of him<g ref="char:EOLhyphen"/>ſelf, chooſing rather to endanger the darkening of his Body, than to neglect the enlightning of his Mind.</p>
+               <p>The Company which he ordinarily kept was choice and ſelect; known to, familiarly converſant with, and highly eſteemed by Men moſt eminent for Parts and Learning, whether of our own Nation or Foreigners: And when without ſuch living company as was moſt acceptable to him, he fail'd not to entertain himſelf and his time, with the Diſcourſe of dead, but in their Works yet li<g ref="char:EOLhyphen"/>ving Authors; of which he had gotten together the moſt excel<g ref="char:EOLhyphen"/>lent of every ſort; nor was it poſſible for any Modern Piece worth reading to ſteal out into the World, with which he was not wont quickly to become acquainted.</p>
+               <p>There was not a Controverſie in Divinity which he had not trac'd, not a nice School-Speculation to which he was a Stranger: What the Orthodox ſay, and what the Heterodox, no man better knew; and not many better able to diſtinguiſh between things that differ. This for Intellectuals.</p>
+               <pb n="20" facs="tcp:44457:12"/>
+               <p>For his Morals, He was a Perſon in whom gravity and affa<g ref="char:EOLhyphen"/>bility were excellently mixt; hugely ſerious, and yet exemplarily civil and obliging: No truer Friend, no pleaſanter Companion. One he was in whom the Homilitical Vertues did all ſhine forth with equal ſplendor.</p>
+               <p>A man in all his Undertakings Prudent, in all his Dealings Juſt, Mature in his Deliberations, Steady in his Reſolutions, Punctual in his Performances; with whom to ſay and to do, were onely not the ſame. A Complemental Verbaliſt he was not, his great Soul knew not ſo far to debaſe it ſelfe; he was all Reality, <hi>ſemper idem;</hi> and if any was ever indeed ſo, <gap reason="foreign" resp="#OXF" extent="1 span">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>And which much added to all the reſt of his Perfections, he was a Perſon of ſingular Modeſty, Learned and Wiſe in the Opi<g ref="char:EOLhyphen"/>nion of all men beſides himſelf; ſparing of Diſcourſe, and apt ra<g ref="char:EOLhyphen"/>ther to conceal than publiſh his own worth; the onely Diſſimula<g ref="char:EOLhyphen"/>tion wherewith he ever was acquainted.</p>
+               <p>Thus whilſt the ſhallow waters make a noiſe, the deep glide ſi<g ref="char:EOLhyphen"/>lently by; and the Ship heavieſt laden with rich Commodities, hath leaſt above water that is viſible.</p>
+               <p>Such was his Life, after which, who can queſtion that his Death was happy?</p>
+               <p>That Infirmities he might have, I ſhall not dare to deny; un<g ref="char:EOLhyphen"/>leſs I could affirm him to have been an Angel, and not a Man: and indeed were it not for ſome few grains of allowance given in, what Pieces would be weight?</p>
+               <p>Sufficeth it, that Vertue where it is predominant, God accepts; and men ought to commend.</p>
+               <p>To conclude in a word, He hath now made the two-fold Re<g ref="char:EOLhyphen"/>turn in my Text, his Duſt is return'd to the Earth as it was, and his Spirit to God that gave it.</p>
+               <trailer>
+                  <hi>To which God, Father, Son, and Holy Ghoſt, be rendred Honour, Glory, and Praiſe, henceforth and for ever.</hi> Amen.</trailer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44457:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
